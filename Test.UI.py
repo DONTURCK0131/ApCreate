@@ -2,4 +2,4 @@ def foo():
         pass
         
 def bar():
-        pass
+        reutrn 2
